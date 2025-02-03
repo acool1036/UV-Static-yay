@@ -55,6 +55,7 @@ body {
 }
 
 #searchbar {
+  align-self: center;
   text-align: center;
   margin: 20px auto;
 }
