@@ -148,7 +148,7 @@ a{
   width:150px;
   border-radius:18px;
   border:1.75px solid #2b2a2a;
-  float: left;
+  display: inline-block;
 
 }
 .popularCont:hover{
