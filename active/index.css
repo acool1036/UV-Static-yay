@@ -55,8 +55,7 @@ body {
 }
 
 #searchbar {
-  align-self: center;
-  text-align: center;
+  width:70%;
   margin: 20px auto;
 }
 
@@ -148,7 +147,7 @@ a{
   width:150px;
   border-radius:18px;
   border:1.75px solid #2b2a2a;
-  display: grid;
+  display: block;
 
 }
 .popularCont:hover{
